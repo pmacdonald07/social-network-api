@@ -2,7 +2,7 @@
 
 
   ## Description
-  This project is an exercise in creating a server, database, and API routes using MongoDB, Mongoose, and Express.
+  This is the back end for a social media application. This app has a server, database, and API routes created using MongoDB, Mongoose, and Express.
 
   ## Table of Contents
   [Installation](#installation)
@@ -25,6 +25,10 @@
   Users can find a walkthrough video of this project and how to set it up here:
 
   https://drive.google.com/file/d/1_qKEubWP7oLLxCirawkqJR2mBLepMPhU/view
+
+  A screenshot of the project being tested in Insomnia:
+
+  ![S-N-A-screencap](https://user-images.githubusercontent.com/108894754/205366530-e23f42dc-5eb6-4843-a346-520f9c8f2f16.png)
 
   ## License
   There are no licenses associated with this project.
